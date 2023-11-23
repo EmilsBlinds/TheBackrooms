@@ -8,7 +8,7 @@ The evil entities will emit a ambient sound, by which you can tell how close it 
 
 Pressing _Shift_ will make you run, but you have a stamina bar which you have to keep in check.
 
-There are a total of 3 levels, each level increases with difficulty, making both the map harder to complete, and adding a new entity to chase you (To a total of 3 at the same time).
+There are a total of 3 levels, each level increases with difficulty, making both the map harder to complete, and adding a new entity to chase you (to a total of 3 at the same time).
 
 ## Planned future features
 
