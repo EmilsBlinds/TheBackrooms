@@ -2,7 +2,7 @@
 
 ### A horror escape the room game
 
-Your goal is to find a way out of the place you're trapped in, (e.g. find key and then an exit door), while evading the evil entity that's chasing you.
+Your goal is to find a way out of the place you're trapped in (e.g. find key and then an exit door), while evading the evil entity that's chasing you.
 
 The evil entities will emit an ambient sound, by which you can tell how close it is to you, if it catches you, the game ends.
 
