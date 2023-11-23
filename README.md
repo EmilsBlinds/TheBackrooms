@@ -13,7 +13,7 @@ There are a total of 3 levels, each level increases with difficulty, making both
 ## Planned future features
 
 * Updated entities
-* More levels
-* More detailed levels
+* More detailed maps
+* New levels
 * Inventory UI to store items
-* A flashlight which emits light and runs on battery
+* A flashlight that runs on battery
